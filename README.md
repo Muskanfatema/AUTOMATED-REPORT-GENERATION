@@ -13,7 +13,6 @@
 **MENTOR NAME** : Neela Santhosh Kumar
 
 **DESCRIPTION OF TASK** : Develop a script to read, analyze data from a file, and generate a formatted PDF report using libraries like FPDF or ReportLab. Deliverables include the script and a sample report.
-
-**OUTPUT** : 
+ 
 
 
